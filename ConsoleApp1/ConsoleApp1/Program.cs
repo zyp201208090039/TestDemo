@@ -15,7 +15,6 @@ namespace ConsoleApp1
             Console.WriteLine("hello world 4");
             Console.WriteLine("hello world 5");
             Console.WriteLine("hello world 6");
-            Console.WriteLine("hello world 9");
             Console.ReadLine();
         }
     }
